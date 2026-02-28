@@ -18,7 +18,7 @@ Add plugin in `~/.config/opencode/opencode.json`:
 ```json
 {
   "plugin": [
-    "opencode-openai-multi-auth",
+    "@hossamzein1/opencode-openai-multi-auth",
     "opencode-pty"
   ]
 }

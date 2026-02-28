@@ -1,5 +1,5 @@
 {
-  "name": "opencode-openai-multi-auth",
+  "name": "@hossamzein1/opencode-openai-multi-auth",
   "version": "0.1.1",
   "description": "OpenCode plugin for OpenAI OAuth multi-account rotation",
   "author": "PC2",
