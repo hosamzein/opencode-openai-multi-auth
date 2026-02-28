@@ -1,0 +1,27 @@
+{
+  "name": "opencode-openai-multi-auth",
+  "version": "0.1.1",
+  "description": "OpenCode plugin for OpenAI OAuth multi-account rotation",
+  "author": "PC2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hosamzein/opencode-openai-multi-auth.git"
+  },
+  "homepage": "https://github.com/hosamzein/opencode-openai-multi-auth#readme",
+  "bugs": {
+    "url": "https://github.com/hosamzein/opencode-openai-multi-auth/issues"
+  },
+  "keywords": [
+    "opencode",
+    "openai",
+    "oauth",
+    "multi-account",
+    "rotation"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "license": "MIT"
+}
